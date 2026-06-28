@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD6E8"/>
+      <stop offset="50%" style="stop-color:#DCC6FF"/>
+      <stop offset="100%" style="stop-color:#FFE5D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g)"/>
+  <circle cx="400" cy="320" r="120" fill="rgba(255,255,255,0.35)"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#9B7BB8">Divya</text>
+  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7A6B85">Replace with your photo (divya-main.jpg)</text>
+</svg>
